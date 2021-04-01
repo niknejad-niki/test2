@@ -1,0 +1,15 @@
+#search{
+   background-color: brown; 
+}
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+  .nav{
+      background-color: crimson;
+      color:darkblue;
+    
+  }
+  .jumbotron{
+      background-color: darkmagenta;
+  }
